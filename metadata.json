@@ -1,0 +1,8 @@
+{
+  "name": "Talha AI",
+  "description": "A comprehensive AI suite featuring Image Generation, Upscaling, Background Removal, Text-to-Speech, Chat, and Video Generation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
